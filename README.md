@@ -5,5 +5,5 @@ After you get clear about all of its strength and drawbacks. You decide to pay $
 People use mobile phone so frequently, and this lead to many interesting questions. In this project, we focus on finding the answer of those interesting questions to you.
 
 
-+ **Data Source**: Our data is from [kaggle-apple](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
++ **Data Source**: Our data is from [kaggle-apple](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps),
 [kaggle- google play](https://www.kaggle.com/lava18/google-play-store-apps)
