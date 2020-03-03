@@ -6,5 +6,4 @@ People use mobile phone so frequently, and this lead to many interesting questio
 
 
 + **Data Source**: Our data is from [kaggle-apple](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
-
 [kaggle- google play](https://www.kaggle.com/lava18/google-play-store-apps)
